@@ -17,7 +17,6 @@ yarn-error.log
 /.fleet
 /.idea
 /.nova
-/.vscode
 /.zed
 config.bat
 branch_structure.json
